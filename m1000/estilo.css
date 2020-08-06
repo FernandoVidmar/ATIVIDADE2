@@ -1,0 +1,56 @@
+html, body{
+    margin:0;}
+#img_fundo{
+    background:url(img/cityscape-ensolarado-bonito_1127-133.jpg);
+    height:75%;
+    text-align: center;
+    width: 100%;
+    margin:300px, 0px, 300px, 0px;
+    background-size: cover ;
+}
+#ação{
+    border-color: rgb(0, 0, 54);
+    
+    margin-top: 3cm;
+}
+h1{
+    color: rgb(0, 0, 54);
+    padding-top: 12%;
+    font-size:45px;
+   
+}
+h2{
+    color:rgb(0, 0, 54);
+    font: size 20;;
+  
+    
+}
+#ação{
+    color: rgb(0, 0, 54);
+    font-size: 12px;
+    border: rgb(0, 0, 54) solid;
+    padding: 10px;
+}
+.paragrafo{
+    text-align: justify;
+    width: 96%;
+   margin-left: 1cm;
+   margin-right: 1cm;
+    
+}
+#video{
+    
+    padding:0 5%;
+    position:relative;
+    width: 60%;
+    margin-left: 5cm;
+}
+:horizontal
+}
+body{
+    background-color: #f7f7f7;
+}
+hr{
+    size: 2px;
+    color: black;
+}
